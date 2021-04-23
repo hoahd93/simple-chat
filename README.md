@@ -1,3 +1,3 @@
 # simple-chat
 - [x] create repo
-- [] commit src
+- [ ] commit src
